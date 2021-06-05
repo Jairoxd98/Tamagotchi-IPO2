@@ -1,3 +1,3 @@
 # Tamagotchi-WPF
-Práctica desarrollada en la asignatura de IPO-2, en la que se desarolla el juego "Tamagochi" en Visual Basic 2019 con C# en WTF.
+Práctica desarrollada en la asignatura de IPO-2, en la que se desarolla el juego "Tamagochi" en Visual Basic 2019 con C# en WPF.
 En el juego hay animaciones, un diseño responsive, coleccionables, diferentes aspectos de jugabilidad y un ranking conectado a una BBDD mediante SQL server.
